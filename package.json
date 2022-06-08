@@ -1,0 +1,22 @@
+{
+  "name": "simonlightgame",
+  "version": "1.0.0",
+  "description": "Simon Game to learn Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockymiss/SimonLightGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockymiss/SimonLightGame/issues"
+  },
+  "homepage": "https://github.com/rockymiss/SimonLightGame#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
